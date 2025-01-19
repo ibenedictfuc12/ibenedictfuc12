@@ -1,16 +1,18 @@
-## Hi there 👋
+## ❓ Who
+3D/AI artist focused on abstract and dramatic scenarios. Sometimes I make beats and code.
 
-<!--
-**ibenedictfuc12/ibenedictfuc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 What
+Doing research at the crossroads of Blockchains & Environmental sustainability (Address-level carbon accounting).
 
-Here are some ideas to get you started:
+## ⛏️ What
+Building open-source art AI agent framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Where
+I lived in Latvia, Riga.
+
+## 💼 I worked as
+- Designer for **@lildrughill**, **@fendiglock1**
+
+### Links
+- [Telegram](https://t.me/bndct5)  
+- [Instagram](https://www.instagram.com/ibenedictfuc12/)
